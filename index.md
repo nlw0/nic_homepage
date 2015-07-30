@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/estilo.css" media="screen" />
 </head>
 
-[Main](index.html) | [Publications](publications.html) | [Misc](misc.html)
+[Main](index.html) | [Publications](publications.html)
 
 nic homepage
 ============
