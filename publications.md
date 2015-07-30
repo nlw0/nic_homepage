@@ -12,6 +12,10 @@ publications
 
 ## Reviewed publications
 ### Journal publications
+
+[Corisco: Robust edgel-based orientation estimation for generic camera models](./almoxarifado/imavis2013-final.pdf) (2013)
+:    Nicolau Leal Werneck and Anna Helena Reali Costa. [_Image and VIsion Computing_](http://dx.doi.org/10.1016/j.imavis.2013.10.004) 31(12), pp. 969–-981.
+
 [Mapping with monocular vision in two dimensions](./almoxarifado/WerneckCosta10.pdf) (2010)
 :   Nicolau Leal Werneck e Anna Helena Reali Costa. [_International Journal of Natural Computing Research_](http://dx.doi.org/10.4018/jncr.20101001) 1(4), pp. 56--65.
 
