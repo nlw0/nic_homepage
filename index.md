@@ -64,20 +64,28 @@ See more at the [publications section](./publications.html).
 More stuff at [my GitHub account](https://github.com/nlw0).
 
 ## Blogs
-_I keep a few blogs, or at least used to:_
-
 [xor](http://xor0110.wordpress.com)
 :    Mostly about programming and technology. Whenever I have some cool piece of code I want to show other people, I talk about it here.
 
 [Sufficient and Necessary Conditions](http://www.scilogs.com/sufficient_and_necessary_conditions/)
 :    My blog at SciLogs. About how science affects our lives and vice-versa. Kind of hibernating right now. 
 
-[Google Plus profile](https://plus.google.com/113933651089797572744/posts)
-:    &nbsp;
+## Elsewhere on the net
 
-[Twitter profile](https://twitter.com/nwerneck)
-:    &nbsp;    
+[Twitter](https://twitter.com/nwerneck)
+:    Mostly news retweets and bad jokes.
 
+[GitHub](https://github.com/nlw0)
+:    A few small projects and experiments, mostly.
+
+[Hackerrank](https://www.hackerrank.com/xor0110)
+:    I love my badges! Trying to reach 90th percentile on Algorithms and FP right now.
+
+[LinkedIn](https://www.linkedin.com/in/nwerneck)
+:    Some more professional information.
+
+[Google Plus](https://plus.google.com/113933651089797572744/posts)
+:    Usually not very active, but some interesting news sometimes that I only see there. Also a good place to post large content unfit for twitter.
 
 ## Contact
 I try to make all my work available in this webpage, but it is usually outdated. If you wish to contact me, please send an email with a reasonable subject to [nwerneck@gmail.com](mailto:nwerneck@gmail.com) or [nwerneck@sdf.org](mailto:nwerneck@sdf.org). Here is my [public PGP key](./pubkey-nwerneck.asc).
