@@ -54,14 +54,23 @@ _A few selected publications:_
 
 See more at the [publications section](./publications.html).
 
-## Blogs
-_I keep a few blogs, or at last used to:_
+## Projects
+[Coffeecraft](http://nic.hpavc.net/coffeecraft/)
+:    Small Akka-http + Dart application. Sources available [at GitHub](https://github.com/nlw0/scala-coffeecraft).
 
-[Sufficient and Necessary Conditions](http://www.scilogs.com/sufficient_and_necessary_conditions/)
-:    My blog at SciLogs. About how science affects our lives and vice-versa.
+[Sharelody](http://nic.hpavc.net/piano/)
+:    WIP, right now it is just a Dart based piano that can record and play back.
+
+More stuff at [my GitHub account](https://github.com/nlw0).
+
+## Blogs
+_I keep a few blogs, or at least used to:_
 
 [xor](http://xor0110.wordpress.com)
-:    Whenever I have some cool piece of code I want to show other people, I paste it here.
+:    Mostly about programming and technology. Whenever I have some cool piece of code I want to show other people, I talk about it here.
+
+[Sufficient and Necessary Conditions](http://www.scilogs.com/sufficient_and_necessary_conditions/)
+:    My blog at SciLogs. About how science affects our lives and vice-versa. Kind of hibernating right now. 
 
 [Google Plus profile](https://plus.google.com/113933651089797572744/posts)
 :    &nbsp;
